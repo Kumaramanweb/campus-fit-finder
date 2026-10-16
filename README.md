@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Fit Finder
 
 An independent student-guidance prototype for the NxtWave / NIAT growth challenge. It is not an official NIAT product and does not make admissions, placement, or eligibility promises.
@@ -78,3 +79,7 @@ A published URL is not included in this source archive. You must deploy it to cr
 ## Data protection notes
 
 This is a challenge starter, not a security audit. Add rate limiting, stronger contact validation, privacy notice, retention/deletion process, admin authentication, and production CORS restrictions before collecting real student data at scale. Avoid collecting personal data from minors unless you have the appropriate consent and safeguards.
+=======
+# campus-fit-finder
+this is for the students who want to find there college according to there needs so this platform help to student find the college now this is a prototype and it generate the report using the ai
+>>>>>>> f84ad32c8bfd6fefdbeaac5fa11b54b3c0880ea4
